@@ -22,10 +22,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
-
-## 📊 GitHub Stats
-
-![stardai35 GitHub stats](https://github-readme-stats.vercel.app/api?username=stardai35&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stardai35&layout=compact&theme=tokyonight)
-
----
